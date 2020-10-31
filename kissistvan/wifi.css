@@ -25,3 +25,13 @@ H1, H2 {
 .zold {
   color: green
 }
+
+.nagyobb {
+  font-size: 150%
+}
+
+#logo {
+  width: 50%;
+  float: right;
+  margin: 20px
+}
