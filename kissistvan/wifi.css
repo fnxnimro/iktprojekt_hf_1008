@@ -4,6 +4,10 @@ BODY {
   background-size: cover
 }
 
+P {
+  text-align: justify
+}
+
 H1, H2 {
   text-align: center
 }
