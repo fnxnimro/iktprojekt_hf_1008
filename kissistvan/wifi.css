@@ -21,7 +21,7 @@ H1, H2 {
 }
 
 .narancs {
-  color: orange
+  color: rgb(200, 150, 0)
 }
 
 .zold {
@@ -46,7 +46,7 @@ TD, TH {
   background-color: rgba(255, 255, 255, 0.7);
   width: 80%;
   margin: auto;
-  padding: 5px
+  padding: 15px
 }
 
 
