@@ -5,3 +5,23 @@ BODY {
 H1, H2 {
   text-align: center
 }
+
+.fk {
+  font-weight: bold
+}
+
+.d {
+  font-style: italic 
+}
+
+.piros {
+  color: red 
+}
+
+.narancs {
+  color: orange
+}
+
+.zold {
+  color: green
+}
